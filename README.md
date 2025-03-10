@@ -1,4 +1,4 @@
-# Sistema de Chamados
+# HelpHup
 
 Um sistema de chamados desenvolvido por **Eric Mendes Souza**. Este sistema permite que os usuários registrem e gerenciem solicitações de suporte. Os usuários podem enviar chamados, adicionar fotos, classificar o problema, indicar a área afetada e definir a urgência.
 
